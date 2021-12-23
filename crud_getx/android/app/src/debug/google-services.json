@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "823391925852",
+    "project_id": "crud-with-getx",
+    "storage_bucket": "crud-with-getx.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:823391925852:android:33e9fd79a2a52c94b59899",
+        "android_client_info": {
+          "package_name": "com.crud_getx.crud_getx"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "823391925852-aovdpjq21od7cd9sapjgh9ta55o6n15m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0NsYsKAJIcxlJlzP2mefWfJw28vQ7r3A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "823391925852-aovdpjq21od7cd9sapjgh9ta55o6n15m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
